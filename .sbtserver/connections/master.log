@@ -1,0 +1,13 @@
+New log file opened at Wed Jan 06 21:55:09 CET 2016 by 3091@Jaaps-MacBook-Pro.local
+Taking next connection to: 50976
+New client attempting to connect on port: 50977-50976
+  Address = /192.168.0.20:50976
+This client on port 50977 has uuid 66a6171a-7088-4323-8d17-c834e966362b configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-66a6171a-7088-4323-8d17-c834e966362b
+Taking next connection to: 50976
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 3091@Jaaps-MacBook-Pro.local logs at Wed Jan 06 21:58:10 CET 2016, goodbye.
